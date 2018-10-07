@@ -48,3 +48,11 @@ www.rock-anime.com##.panel-body > center
 ||www.am4th.com/wp-content/uploads/2017/*$image
 ||www.am4th.com/wp-content/uploads/2017/*/*.gif$image
 ||www.anime-sugoi.com/css/ontop.png$image
+www.anime-sugoi.com##div.panel-danger.panel:nth-of-type(2)
+www.anime-sugoi.com##center:nth-of-type(12)
+www.anime-sugoi.com##center:nth-of-type(11)
+www.anime-sugoi.com##center:nth-of-type(10)
+www.anime-sugoi.com##center:nth-of-type(6)
+www.anime-sugoi.com##center:nth-of-type(7)
+www.anime-sugoi.com##center:nth-of-type(8)
+www.anime-sugoi.com##center:nth-of-type(9)
